@@ -1,0 +1,7 @@
+com\fy\controller\UserController.class
+com\fy\controller\ProductController.class
+com\fy\controller\SysLogController.class
+com\fy\controller\LogAop.class
+com\fy\controller\PermissionController.class
+com\fy\controller\OrdersController.class
+com\fy\controller\RoleController.class

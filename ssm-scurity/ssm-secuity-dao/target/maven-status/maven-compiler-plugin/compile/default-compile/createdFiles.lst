@@ -1,0 +1,8 @@
+com\fy\dao\SysLogDao.class
+com\fy\dao\PermissionDao.class
+com\fy\dao\TravellerDao.class
+com\fy\dao\MemberDao.class
+com\fy\dao\OrdersDao.class
+com\fy\dao\RoleDao.class
+com\fy\dao\ProductDao.class
+com\fy\dao\UserDao.class
